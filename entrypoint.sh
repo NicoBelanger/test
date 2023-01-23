@@ -1,6 +1,7 @@
 #!/bin/sh
 echo "Execution is being started"
 echo "**************************"
+echo "testestestetsetsetst"
 ls /opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.5-8/x64
 #jmeter $@
 echo "**************************"
