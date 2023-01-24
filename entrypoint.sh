@@ -2,7 +2,8 @@
 echo "Execution is being started"
 echo "**************************"
 pwd
-ls /opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.5-8
+echo JAVA_HOME
+ls /opt/hostedtoolcache/
 #jmeter $@
 echo "**************************"
 echo "Execution has been completed, please check the artifacts to download the results."
