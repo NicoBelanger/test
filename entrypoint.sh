@@ -2,7 +2,7 @@
 echo "Execution is being started"
 echo "**************************"
 which java
-whereis java
+java -version
 pwd
 echo $JAVA_HOME
 ls /opt/hostedtoolcache/
