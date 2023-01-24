@@ -1,6 +1,8 @@
 #!/bin/sh
 echo "Execution is being started"
 echo "**************************"
+which java
+whereis java
 pwd
 echo $JAVA_HOME
 ls /opt/hostedtoolcache/
