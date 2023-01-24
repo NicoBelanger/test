@@ -1,8 +1,8 @@
 #!/bin/sh
 echo "Execution is being started"
 echo "**************************"
-echo "testestestetsetsetst"
-ls /opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.5-8/x64
+pwd
+ls /opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.5-8
 #jmeter $@
 echo "**************************"
 echo "Execution has been completed, please check the artifacts to download the results."
