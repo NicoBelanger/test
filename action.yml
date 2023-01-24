@@ -22,4 +22,5 @@ runs:
   - "-n"
   - "-t"
   - "${{ inputs.test-plan-path }}"
-  - "${{ inputs.args }}"
+  - "-l"
+  - "/dev/stdout"
