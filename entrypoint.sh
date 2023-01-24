@@ -2,7 +2,7 @@
 echo "Execution is being started"
 echo "**************************"
 pwd
-echo JAVA_HOME
+echo $JAVA_HOME
 ls /opt/hostedtoolcache/
 #jmeter $@
 echo "**************************"
